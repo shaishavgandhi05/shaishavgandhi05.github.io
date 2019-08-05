@@ -33,28 +33,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-# facebook: myfacebook
 twitter: shaishgandhi
-# google: mygoogle
-instagram: Shaishav.gandhi
-# pinterest: mypinterest
-# linkedin: mylinkedin
-# youtube: myyoutube
-# spotify: myspotify
-github: shaishavgandhi05
-# gitlab: mygitlab
-# lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
-# quora: userquora
-# reddit: username
-#medium: medium
-# vimeo: myvimeo
-# lanyrd: mylanyrd
-#email: myemail@gmail.com
+github: ShaishavGandhi
 
 authors:
     Shaishavgandhi:
-        name: John Doe
+        name: Shaishav Gandhi
         bio: Software Engineer. Open Source Enthusiast. Beatles Obsessive. Guitarist.
         external-image: false
         picture: assets/images/profile.jpg
